@@ -2,22 +2,32 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const [currentDisp, setCurrentDisp] = useState("About");
+
+  const renderDisp = () => {
+    switch (currentDisp) {
+      case "About":
+        return <About />;
+      case "Portfolio":
+        return <Portfolio />;
+      case "Contact":
+        return <Contact />;
+      case "Resume":
+        return <Resume />;
+      default:
+        return <About />;
+    }
+  };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navigation currentDisp = {currentDisp} setCurrentDisp = {setCurrentDisp} />
+
+      <main>
+        {renderDisp(currentDisp)}
+      </main>
+
+      <Footer />
     </div>
   );
 }
