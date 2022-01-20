@@ -1,5 +1,11 @@
-import logo from './logo.svg';
+import React, {useState} from 'react';
 import './App.css';
+import Navigation from './comps/navi';
+import About from './comps/about';
+import Portfolio from './comps/portfolio';
+import Contact from './comps/contact';
+import Resume from './comps/resume';
+import Footer from './comps/foot';
 
 function App() {
   const [currentDisp, setCurrentDisp] = useState("About");
