@@ -2,7 +2,7 @@ import React from 'react';
 import './style.css';
 import profilePic from '../../assets/images/profile/MRHeadshot.PNG';
 
-function About() {
+function about() {
     return (
         <div className='about'>
             <h2>About Me</h2>
@@ -17,4 +17,4 @@ function About() {
     )
 }
 
-export default About;
+export default about;
