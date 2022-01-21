@@ -1,0 +1,23 @@
+[
+    {
+        "title": "IPAPI",
+        "description": "IPAPI is a website that was created, edit and stores user's favorite beers. This app also checks to see if there are any other users that might live in your state to go get a beer with.",
+        "image": "IPAPIPage",
+        "appLink": "https://ipapi-beer.herokuapp.com/",
+        "githubLink": "https://github.com/james182-dang/IPAPI"
+    },
+    {
+        "title": "Forecastify",
+        "description": "Forecastify was created to be able to help a user decide what type of music to listen to that day by what the weather forecast is in their area.",
+        "image": "Forecastify",
+        "appLink": "https://james182-dang.github.io/Forecastify/",
+        "githubLink": "https://github.com/james182-dang/Forecastify"
+    },
+    {
+        "title": "Run Buddy",
+        "description": "Run Buddy was the first fully built out website that I created. This was built out with HTML, CSS, and JavaScript.",
+        "image": "runbuddysplash",
+        "appLink": "https://mattroland94.github.io/run-buddy/",
+        "githubLink": "https://github.com/mattroland94/run-buddy"
+    }
+]
