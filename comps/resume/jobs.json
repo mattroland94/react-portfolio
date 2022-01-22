@@ -1,0 +1,28 @@
+[
+    {
+        "employer": "Citizens Bank",
+        "title": "IT/Business Resources Consultant",
+        "duration": "October 2020 - Present",
+        "description": "Provide direct support to lenders and brokers on a proprietary loan origination system. Work with other IT teams (Developers, QAs, and product owners) on major application features, updates and troubleshooting. Create documentation for step-by-step troubleshooting and workarounds for brokers and lenders. Assist in deploying and supporting a loan origination system through SalesForce/EPIC and have helped to create a ticketing system for brokers.",
+        "icon": "itbusinessresourcesconsultant"
+    },
+    {
+        "employer": "LifeWay Christian Resources",
+        "title": "Senior Support Analyst",
+        "duration": "August 2018 - October 2020",
+        "description": "Problem solving, basic and advance, issues presented by employees on Mac OS and also Windows devices. Application owner for Xerox, printing devices, and applying printer repairs. Able to assist customers with account support and Application support. Meticulous competency in creating solutions and presenting products to customers. Interactive and responsive to all submitted support tickets for the company. Direct conatact for executive support for the CEO, COO, SVP, CFO, CHO, CIO of LifeWay.",
+        "icon": "seniorsupportanalyst"
+    },
+    {
+        "employer": "LifeWay Christian Resources",
+        "title": "Support Analyst",
+        "duration": "May 2018 - August 2019",
+        "description": "Problem solving, basic and advanced, issues presented by employees on Mac OS and also Windows. Able to assist customers with account support and Application support. Meticulous competency in creating solutions and presenting products to customers. Interactive and responsive to all submitted support tickets for the company."
+    },
+    {
+        "employer": "IT Project Managment/Internship",
+        "title": "Support Analyst",
+        "duration": "June 2017 - May 2018",
+        "description": "Problem solving, basic and advanced, issues presented by employees on Mac OS and also Windows. Able to assist customers with account support and Application support. Meticulous competency in creating solutions and presenting products to customers. Interactive and responsive to all submitted support tickets for the company."
+    }
+]
