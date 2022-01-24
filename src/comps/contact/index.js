@@ -1,17 +1,17 @@
 import React, { useState } from 'react';
-import {validateEmail} from '../../utils/helpers';
+import { validateEmail } from '../../utils/helpers';
 import './style.css';
 
 function contact() {
-    const [formStat, setFormState] = useState({name: '', email: '', message: ''});
+    const [formState, setFormState] = useState({name: '', email: '', message: ''});
     const [errorMessage, setErrorMessage] = useState('');
-    const {name, email, message} = formStat;
+    const {name, email, message} = formState;
 
     const handleSubmit = (e) => {
         e.preventDefault();
         if (!errorMessage) {
             setFormState({[e.target.name]: e.target.value});
-            console.log('Form', formStat);
+            console.log('Form', formState);
         }
     };
 
