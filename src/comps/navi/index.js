@@ -1,9 +1,8 @@
 import React from 'react';
 import './style.css';
-import 'animate.css';
 
 function navi(props) {
-    let name = '<Matt Roland />';
+    let name = 'Matt Roland';
 
     return (
         <header className='flex-wrap'>

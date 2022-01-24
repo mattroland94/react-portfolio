@@ -3,9 +3,9 @@ import {validateEmail} from '../../utils/helpers';
 import './style.css';
 
 function contact() {
-    const [formStat, setFormStat] = useState({name: '', email: '', message: ''});
+    const [formStat, setFormState] = useState({name: '', email: '', message: ''});
     const [errorMessage, setErrorMessage] = useState('');
-    const {name, email, message} = formState;
+    const {name, email, message} = formStat;
 
     const handleSubmit = (e) => {
         e.preventDefault();

@@ -1,5 +1,5 @@
 import React from 'react';
-import {FaGithub, FaLinkedin, FaStackOverflow} from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaStackOverflow } from 'react-icons/fa';
 import './style.css';
 
 function foot() {
