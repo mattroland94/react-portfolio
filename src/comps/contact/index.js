@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { validateEmail } from '../../utils/helpers';
 import './style.css';
 
-function contact() {
+function Contact() {
     const [formState, setFormState] = useState({name: '', email: '', message: ''});
     const [errorMessage, setErrorMessage] = useState('');
     const {name, email, message} = formState;
@@ -75,4 +75,4 @@ function contact() {
     )
 }
 
-export default contact;
+export default Contact;
