@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.04179b6f.css",
+    "main.js": "/react-portfolio/static/js/main.b76760b1.js",
+    "static/js/787.8c081f57.chunk.js": "/react-portfolio/static/js/787.8c081f57.chunk.js",
+    "static/media/Forecastify.png": "/react-portfolio/static/media/Forecastify.c7ef503c6a085f2338bc.png",
+    "static/media/MRHeadshot.PNG": "/react-portfolio/static/media/MRHeadshot.3610bf7fb076823d4006.PNG",
+    "static/media/itprojectmanagement.jpg": "/react-portfolio/static/media/itprojectmanagement.b8f363921f81b3e2edd3.jpg",
+    "static/media/seniorsupportanalyst.jpg": "/react-portfolio/static/media/seniorsupportanalyst.d4d60f1b5c13266f5f9e.jpg",
+    "static/media/itsupportanalyst.jpg": "/react-portfolio/static/media/itsupportanalyst.3095cdf3436e8f402489.jpg",
+    "static/media/itbusinessresourcesconsultant.jpg": "/react-portfolio/static/media/itbusinessresourcesconsultant.554ba0d0866634a94931.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.04179b6f.css.map": "/react-portfolio/static/css/main.04179b6f.css.map",
+    "main.b76760b1.js.map": "/react-portfolio/static/js/main.b76760b1.js.map",
+    "787.8c081f57.chunk.js.map": "/react-portfolio/static/js/787.8c081f57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.b76760b1.js"
+  ]
+}
